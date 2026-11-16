@@ -1,6 +1,6 @@
 # Scholars & Innovators in Modern Programming — Classroom Materials
 
-Companion materials for *Scholars & Innovators in Modern Programming* (Alex Groce, Apress), for instructors and students using the book in software engineering courses.
+Companion materials for [*Scholars & Innovators in Modern Programming* (Alex Groce, Apress)](https://www.amazon.com/Scholars-Innovators-Modern-Programming-Conversations/dp/B0GKWXDB7N), for instructors and students using the book in software engineering courses.
 
 ## READ THIS FIRST
 
